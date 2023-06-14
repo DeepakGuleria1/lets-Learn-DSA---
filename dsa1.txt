@@ -1,0 +1,11 @@
+for(i = 0; i < N; i++)
+{
+    if(arr[i] == key)
+    { 
+        print "Element Found";
+    }
+    else
+    {
+        print "Element not Found";
+    }
+}
